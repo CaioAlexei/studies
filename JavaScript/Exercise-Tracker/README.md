@@ -1,6 +1,6 @@
 # Exercise Tracker
 
-Microservice API responsable for reciving a POST and GET request contaning information about a user and a exercise.
+Microservice API responsable for reciving a POST and GET request contaning information about a user and a exercise, transmiting it in JSON formart.
 
 Utilizing:
 Express, JavaScript, MongoDB, ORM - Mongoose
